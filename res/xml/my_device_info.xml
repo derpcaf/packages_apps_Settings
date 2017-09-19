@@ -62,20 +62,20 @@
         android:summary="@string/summary_placeholder"/>
 
     <!-- Legal information -->
-    <Preference
+    <!--Preference
         android:key="legal_container"
         android:order="6"
         android:title="@string/legal_information"
         android:fragment="com.android.settings.LegalSettings"
-        settings:allowDividerAbove="true"/>
+        settings:allowDividerAbove="true"/-->
 
-    <!-- Regulatory labels -->
+    <!-- Regulatory labels
     <Preference
         android:key="regulatory_info"
         android:order="7"
         android:title="@string/regulatory_labels">
         <intent android:action="android.settings.SHOW_REGULATORY_INFO"/>
-    </Preference>
+    </Preference> -->
 
     <!-- Safety & regulatory manual -->
     <Preference
