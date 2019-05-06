@@ -11,7 +11,67 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-     <!-- DerpZone -->
+
+    <!-- Rom version -->
+    <string name="rom_version_title">Derp-CAF Version</string>
+
+    <!-- Dev Info -->
+    <string name="derpcaf_about_nfo">About Derp-CAF</string>
+    <string name="derpcaf_about_info_summary_title">Know About Us!</string>
+    <string name="derpcaf_info_summary">Team DerpGang proudly presents Derp-CAF! A custom rom based purely on CAF, made with love. Our main goal here is to give users as many features we can, also not to compromise performance and stability at the same time.</string>
+    <string name="devs_header">Core Dev Team</string>
+    <string name="testing_header">Testers</string>
+    <string name="thanks_header">Special Thanks to These Devs</string>
+    <string name="derpcaf_telegram">Official Telegram Discussion Group</string>
+    <string name="derpcaf_telegram_summary">Join Here for some fun</string>
+    <string name="credits_header">Applause</string>
+    <string name="credits_summary">Special Thanks To These Teams</string>
+    <string name="devices">Devices</string>
+    <string name="devices_title">Official Devices</string>
+    <string name="devices_summary">Devices We Support Officially</string>
+    <string name="dev_1">Dmitrii Kudas aka Dmitrii</string>
+    <string name="dev1_description">Lead Developer, The Project Head</string>
+    <string name="dev_2">Kanishka Pattanayak aka Kanishk</string>
+    <string name="dev2_description">Customization Developer, The Cherry-Picker</string>
+    <string name="dev_3">Mahek Thaker aka MRHACKER5476</string>
+    <string name="dev3_description">Core Developer, The Coder</string>
+    <string name="dev_4">Varun Vaishnav aka TheHardGamer</string>
+    <string name="dev4_description">Core Developer, The Kernel Maker</string>
+    <string name="dev_5">Joshi Nagaraju aka Joshi</string>
+    <string name="dev5_description">Graphics Designer, The Bootanimator</string>
+    <string name="dev_6">Sandeep Sethi aka adeveloper79</string>
+    <string name="dev6_description">Code Developer, The Code Puller</string>
+    <string name="devices_header">Official Devices</string>
+    <string name="device_1">Lenovo Z2 Plus aka z2_plus</string>
+    <string name="device1_description">Dmitrii Kudas | Dmitrii</string>
+    <string name="device_2">Asus Zenfone Max Pro M1 aka X00T(D)</string>
+    <string name="device2_description">Varun Vaishnav | TheHardGamer</string>
+    <string name="credits_to_these_teams">Credits Section</string>
+    <string name="hail_to_teams"> Huge Thanks to These Teams</string>
+    <string name="team_1">Team CAF</string>
+    <string name="team_2">Team MSM-XTENDED</string>
+    <string name="team_3">Team ColtOS</string>
+    <string name="team_4">Team OmniROM</string>
+    <string name="team_5">Team DirtyUnicorns</string>
+    <string name="team_6">Team Nitrogen OS</string>
+    <string name="team_7">Team AICP</string>
+    <string name="team_8">Team Cr Droid</string>
+    <string name="team_9">Team ScrewdAOSP</string>
+    <string name="team_10">Team CypherOS</string>
+    <string name="team_11">Team LiquidRemix</string>
+    <string name="team_12">Team BenzoROM</string>
+    <string name="team_13">Team Bootleggers Rom</string>
+    <string name="team_14">Team AOSP Extended</string>
+    <string name="team_15">Team ResurrectionRemix</string>
+    <string name="team_16">Team Havoc OS</string>
+    <string name="team_17">Team Substratum</string>
+    <string name="spt_1">SuperDroidBond</string>
+    <string name="hht_1">Sandeep Kumar | yosandy</string>
+    <string name="hht_2">Kamaraj Samuel | silentkiller12</string>
+    <string name="hht_3">Srivatsan Jyotsum | drwatson221b</string>
+    <string name="hht_4">Ujwal Agrawal | Ujjawal23</string>
+
+    <!-- DerpZone -->
     <string name="derpzone_title">DerpZone</string>
     <string name="derpzone_summary">Derp your device here:P</string>
 
