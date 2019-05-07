@@ -16,7 +16,7 @@
     <string name="rom_version_title">Derp-CAF Version</string>
 
     <!-- Dev Info -->
-    <string name="derpcaf_about_nfo">About Derp-CAF</string>
+    <string name="derpcaf_about_info">About Derp-CAF</string>
     <string name="derpcaf_about_info_summary_title">Know About Us!</string>
     <string name="derpcaf_info_summary">Team DerpGang proudly presents Derp-CAF! A custom rom based purely on CAF, made with love. Our main goal here is to give users as many features we can, also not to compromise performance and stability at the same time.</string>
     <string name="devs_header">Core Dev Team</string>

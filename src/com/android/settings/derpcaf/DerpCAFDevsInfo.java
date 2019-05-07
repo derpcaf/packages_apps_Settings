@@ -23,7 +23,7 @@ import com.android.settings.R;
 
 import com.android.internal.logging.nano.MetricsProto.MetricsEvent;
 
-public class Derp-CAFDevsInfo extends SettingsPreferenceFragment {
+public class DerpCAFDevsInfo extends SettingsPreferenceFragment {
 
     @Override
     public void onCreate(Bundle savedInstanceState) {

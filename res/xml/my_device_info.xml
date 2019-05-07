@@ -33,7 +33,7 @@
         android:order="1"
         android:title="@string/derpcaf_about_info"
         android:summary="@string/derpcaf_about_info_summary_title"
-        android:fragment="com.android.settings.derpcaf.Derp_CAFDevsInfo" />
+        android:fragment="com.android.settings.derpcaf.DerpCAFDevsInfo" />
 
     <!-- Changelog -->
     <Preference android:key="changelog"

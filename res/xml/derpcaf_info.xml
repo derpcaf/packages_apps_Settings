@@ -20,7 +20,6 @@ xmlns:android="http://schemas.android.com/apk/res/android"
 		android:layout="@layout/derpcaf_about" />
 	<Preference
                android:summary="@string/derpcaf_info_summary" />
-</Preference>
 <Preference
                android:title="@string/derpcaf_telegram"
                android:summary="@string/derpcaf_telegram_summary" 
